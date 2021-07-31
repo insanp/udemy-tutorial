@@ -1,0 +1,5 @@
+Kamu datang ke kantor. Tapi suasana sangat sepi. Apakah kamu akan masuk?
+
+Aku harus bagaimana?
+1. Masuk ke kantor
+2. Pulang

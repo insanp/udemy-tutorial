@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5260fa8be3e1b1642824a9e1a1abd210, type: 3}
+  m_Name: A7. Lorong TransTV
+  m_EditorClassIdentifier: 
+  storyText: 'Kamu menelusuri lorong TransTV hingga melewati ruang make up. Di ujung
+    terdapat pintu kaca yang mengarah ke luar gedung. Pintu ini rupanya tidak terkunci
+    dan kamu bisa keluar. Tempat ini terlihat seperti gang yang terdapat beberapa
+    gudang-gudang besar. Kamu menelusuri gang ini hingga sampai di lokasi terbelakang.
+
+    
+
+    1.
+    Lanjut..'
+  nextStates:
+  - {fileID: 11400000, guid: 9352b30e7b40d6742bf25ee6d075a8f1, type: 2}

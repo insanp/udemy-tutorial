@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5260fa8be3e1b1642824a9e1a1abd210, type: 3}
+  m_Name: A5. Dobrak Gedung TransTV
+  m_EditorClassIdentifier: 
+  storyText: 'Pintu depan Gedung TransTV tertutup rapat. Kamu mencoba mendobrak dan
+    rupanya terbuka. Kamu masuk dan ruangannya sangat gelap. Kamu lihat ada lift
+    dan lorong di sebelah kanan.
+
+    
+
+    1. Gunakan lift
+
+    2. Pergi ke lorong'
+  nextStates:
+  - {fileID: 11400000, guid: 771c1d9553fc3894d97cb521e8628d36, type: 2}
+  - {fileID: 11400000, guid: 6f1441b9efa1ec9409cd8eba1927aa0d, type: 2}
